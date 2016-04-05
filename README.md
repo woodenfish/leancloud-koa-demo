@@ -1,6 +1,6 @@
 # LeanCloud Koa示例程序
 
-    Koa官方示例采用express，这里提供了一个使用Koa框架的简单示例
+    LeanCloud官方示例采用express，这里提供了一个使用Koa框架的简单示例
 
 ## 一些坑
 
